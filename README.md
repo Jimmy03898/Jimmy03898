@@ -39,7 +39,6 @@ Participación en el levantamiento, análisis y documentación funcional de todo
 
 ### 📫 Contacto
 - 📧 **Correo:** jsanchez03898@gmail.com  
-
 - 💻 **GitHub:** [https://github.com/tu-usuario](https://github.com/jimmy03898)
 
 ---
